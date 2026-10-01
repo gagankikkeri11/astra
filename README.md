@@ -4,10 +4,13 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688.svg)](https://fastapi.tiangolo.com)
 [![SQLite WAL+FTS5](https://img.shields.io/badge/SQLite-WAL%20%2B%20FTS5-003B57.svg)](https://sqlite.org)
 [![Google GenAI](https://img.shields.io/badge/Google%20GenAI-gemini--2.5--flash-4285F4.svg)](https://ai.google.dev)
+[![Deployment](https://img.shields.io/badge/Deployment-Live%20on%20Render-46E3B7?logo=render&logoColor=white)](https://astra-ia6g.onrender.com/)
 [![Status](https://img.shields.io/badge/Status-Operational-10b981.svg)]()
 
 > **ASTRA 3-Day Build Challenge — Autonomous Intel Agent Interface**  
-> A clean, centered, single-flow autonomous intelligence agent interface for Open-Source Defence Intelligence (OSINT) triage, domain classification, platform extraction, and situation briefing synthesis.
+> A clean, centered, single-flow autonomous intelligence agent interface for Open-Source Defence Intelligence (OSINT) triage, domain classification, platform extraction, and situation briefing synthesis.  
+>  
+> 🌐 **Live Deployed Web Application:** [https://astra-ia6g.onrender.com/](https://astra-ia6g.onrender.com/)
 
 ---
 
@@ -98,7 +101,16 @@ astra-sentinel/
 
 ## 4. Setup & Quick Start
 
-### Installation
+### 🌐 Live Production Deployment
+
+The operational agent interface is deployed and available live:
+* **Production Web Interface:** [https://astra-ia6g.onrender.com/](https://astra-ia6g.onrender.com/)
+* **Live Health Diagnostic:** [https://astra-ia6g.onrender.com/api/health](https://astra-ia6g.onrender.com/api/health)
+* **Interactive OpenAPI Specs:** [https://astra-ia6g.onrender.com/docs](https://astra-ia6g.onrender.com/docs)
+
+---
+
+### Local Installation & Development
 
 1. **Clone the repository:**
    ```bash
